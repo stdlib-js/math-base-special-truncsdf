@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-30)
+## Unreleased (2026-10-01)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`4142981`](https://github.com/stdlib-js/stdlib/commit/414298163423cdbd514f26569e7de322d2129104) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`b41c953`](https://github.com/stdlib-js/stdlib/commit/b41c953b185783768ac50677b4e07eeae0b84cdc) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`c4db1b9`](https://github.com/stdlib-js/stdlib/commit/c4db1b94503a1e7f72deb4a8ca7aac2e69dce7ef) - **feat:** add `math/base/special/truncsdf` [(#10606)](https://github.com/stdlib-js/stdlib/pull/10606) _(by Aryan kumar, Karan Anand)_
 
 </details>
